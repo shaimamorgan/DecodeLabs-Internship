@@ -5,7 +5,7 @@ Transform a raw, messy sales dataset into a **production-ready "Gold Standard"**
 
 ## 🛠️ Tools Used
 - Microsoft Excel (Power Query Editor)
-- GitHub (for version control and submission)
+
 
 ## 📂 Files in this Repository
 | File Name | Description |
